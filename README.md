@@ -55,7 +55,7 @@ Fraud in digital transactions causes significant financial loss globally. This t
 
 | Screenshot |
 |------------|
-| _[Insert your Streamlit app screenshot here]_ |
+| _(https://github.com/utkarsh2035/Fraud-Detection-WebApp/blob/main/Fraud%20Detection%20System.png)_ |
 
 - 🧾 **Form Input** — Enter transaction step, amount, balances, and type  
 - ⚙️ **XGBoost Classifier** — Provides fraud probability  
