@@ -78,3 +78,29 @@ Fraud in digital transactions causes significant financial loss globally. This t
 
 ## 📁 Project Structure
 
+Fraud-Detection-WebApp/
+│
+├── app.py # Streamlit UI logic
+├── fraud_model.pkl # Trained XGBoost model
+├── scaler.pkl # StandardScaler instance
+├── columns.pkl # List of features used during training
+├── requirements.txt # Required Python packages
+├── .gitignore # Ignored files
+└── README.md # Project documentation
+
+
+---
+
+## 💬 Feedback & Improvements
+
+Planned enhancements:
+
+- 🧠 Introduce ensemble voting with multiple models  
+- 📊 Display SHAP-based feature importance in UI  
+- 🔄 Enable bulk transaction testing via CSV upload  
+
+---
+
+## 🔖 Tags
+
+#Streamlit #FraudDetection #XGBoost #MachineLearning #DataScience #FinTech #Python #MLProjects #PrecisionFirst #Security
